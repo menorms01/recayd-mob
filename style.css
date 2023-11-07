@@ -1,0 +1,87 @@
+body{
+font-family: 'Roboto Condensed', sans-s
+}
+
+
+.titulo{
+    text-align: right;
+    color: black;
+    font-size: 40px;
+    
+}
+header{
+    padding: 20px;
+    background-color: #000000;
+    background-image:  linear-gradient(to right, rgba(116, 31, 214, 0.712), rgb(20, 20, 20))
+    
+}
+.caixa{
+    text-align: center;
+}
+nav {
+    position: absolute;
+    top: 160px;
+    right: 18px;
+}
+nav li{ 
+    display: inline;
+    margin: 0 0 0 15px;
+
+}
+nav a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+nav a:hover{
+    color: rgb(243, 228, 228);
+    text-decoration: underline;
+}
+.img{
+    width: 100%;
+    
+}
+.historia{
+    text-align:center;
+}
+.titulo2{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    text-shadow: 8px 8px 5px rgb(123, 25, 180);   
+}
+
+.texto{
+    display: flex;
+}
+.banner:hover{
+    height: 350px;
+}
+.letras{
+    font-size: 17px;
+}
+.instagram{
+    text-align: center;
+    font-size: 30px;
+    text-shadow: 8px 8px 5px #000000;
+
+}
+.mob{
+    font-size: 30px;
+}
+footer{
+    text-align: center;
+    background: url(./img/rodape6.png);
+    padding: 40px 0;
+}
+.copy{
+    color: #ffffff;
+    font-size: 13px;
+    margin: 20px 0;
+}
+
+
+

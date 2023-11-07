@@ -1,0 +1,88 @@
+body{
+    font-family: 'Roboto Condensed', sans-s
+}
+    
+header{
+    padding: 20px;
+    background-color: #000000;
+    background-image:  linear-gradient(to right, rgba(116, 31, 214, 0.712), rgb(20, 20, 20))
+    
+}
+.caixa{
+    text-align: center;
+}
+nav {
+    position: absolute;
+    top: 160px;
+    right: 18px;
+}
+nav li{ 
+    display: inline;
+    margin: 0 0 0 15px;
+
+}
+nav a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+nav a:hover{
+    color: rgb(243, 228, 228);
+    text-decoration: underline;
+}
+.vol1{
+    text-align: center;
+    color: purple;
+    text-shadow: 8px 8px 5px black;
+    
+}
+
+.vol2{
+    text-align: center;
+    color: purple;
+    text-shadow: 8px 8px 5px black;
+}
+
+.vol3{
+    text-align: center;
+    color: purple;
+    text-shadow: 8px 8px 5px black;
+}
+.fonts{
+    font-size: 18px;
+
+}
+.calzone1 li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    margin: 0 1.5%;
+}
+.calzone1-descricao{
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.imgcalzone{
+    width: 250px;
+    margin: 0 10%;
+}
+.imgcalzone:hover{
+    width: 280px;
+}
+.calzone-descricao{
+    font-size: 18px;
+}
+footer{
+    text-align: center;
+    background: url(./img/rodape6.png);
+    padding: 40px 0;
+}
+.copy{
+    color: #ffffff;
+    font-size: 13px;
+    margin: 20px 0;
+}

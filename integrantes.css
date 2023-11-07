@@ -1,0 +1,105 @@
+body{
+    font-family: 'Roboto Condensed', sans-s
+}
+    
+header{
+    padding: 20px;
+    background-color: #000000;
+    background-image:  linear-gradient(to right, rgba(116, 31, 214, 0.712), rgb(20, 20, 20))
+    
+}
+.caixa{
+    text-align: center;
+}
+nav {
+    position: absolute;
+    top: 160px;
+    right: 18px;
+}
+nav li{ 
+    display: inline;
+    margin: 0 0 0 15px;
+
+}
+nav a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+nav a:hover{
+    color: rgb(243, 228, 228);
+    text-decoration: underline;
+}
+.je{
+        display: flex;
+
+}
+.jesantiago{
+    margin: 20px 15px;
+    width: 220px;
+
+}
+.jesantiago:hover{
+    width: 240px;
+}
+.textoje{
+    margin: 70px 0;
+    font-size: 17px;
+}
+
+.maninja{
+    display: flex;
+}
+.mcigu{
+    margin: 20px 15px;
+    width: 220px;
+}
+.mcigu:hover{
+    width: 240px;
+}
+.textoigu{
+    margin: 70px 0;
+    font-size: 17px;
+}
+
+.fideliz{
+    display: flex;
+}
+.dfideliz{
+    margin: 20px 15px;
+    width: 220px;
+}
+.dfideliz:hover{
+    width: 240px;
+}
+.textofe{
+    margin: 70px 0;
+    font-size: 17px;
+}
+.de{
+    display: flex;
+}
+.derek{
+    margin: 20px 15px;
+    width: 220px;
+}
+.derek:hover{
+    width: 240px;
+}
+.textode{
+    margin: 70px 0;
+    font-size: 17px;
+}
+footer{
+    text-align: center;
+    background: url(./img/rodape6.png);
+    padding: 40px 0;
+}
+.copy{
+    color: #ffffff;
+    font-size: 13px;
+    margin: 20px 0;
+}
